@@ -1,0 +1,5 @@
+apt-get install html2text
+apt-get get install curl
+apt-get install tor
+apt-get install proxychains
+apt-get install whois
