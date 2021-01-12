@@ -1,0 +1,11 @@
+
+Instalar e configurar o proxychains para usar o script 
+1) Dentro do arquivo /etc/proxychains.conf descomentar a linha 
+dinamyc_chain
+
+2) Comentar a linha strict_chain
+
+3) No final do arquivo, adicione a linha: 
+ socks5 127.0.0.1 9050
+
+4) Comente a linha socks4
