@@ -5,20 +5,19 @@ arquivo requirements.txt.
 
 
 O arquivo analisado deverá conter apenas domínios, sendo um por linha:
-  ex: zezinho.com.br
-      zezinho2.com.br
-      zezinho3.com.br
-      
+  
+  
+  
 Para rodar o script, é necessário dar o comando:
- # service tor start
+ "# service tor start
  
  
 
 
 
-############################################################
+## ###################################################### ####
 ## Instalar e configurar o proxychains para usar o script ##
-############################################################
+## ######################################################## ##
 
 
 1) Dentro do arquivo /etc/proxychains.conf descomentar a linha 
